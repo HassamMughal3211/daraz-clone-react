@@ -1,0 +1,20 @@
+.Navbar{
+   
+    
+    background: rgb(209, 208, 208);
+}
+.Navbar ul{
+    display: flex;
+    list-style: none;
+}
+
+.buttonWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttonWrapper button{
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+}
